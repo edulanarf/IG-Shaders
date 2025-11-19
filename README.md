@@ -95,10 +95,13 @@ El **shader fragmentado** se aplica a un plano y genera patrones abstractos anim
 En la siguiente imagen podemos ver que sin utilizar ninguna herramienta para crear puntos de luz en Three.js, la oveja se ilumina
 simulando diferentes tipos de luces (ambiente, especular ...)
 
-![Imagen de oveja](Imagenes/oveja.JPG)
+![Imagen de oveja](imagenes/oveja.JPG)
 
 Lo mismo pasa con el resto de modelos 3D, que en este caso son todos de "Minecraft" pero podría servir para cualquier modelo.
 
-![Imagen de Tierra](Imagenes/bloqueTierra.JPG)
+![Imagen de Tierra](imagenes/bloqueTierra.JPG)
 
-##Shader Fragmentado
+## Shader Fragmentado
+
+El siguiente shader fragmentado ocupa 407Bytes  
+![Imagen de shader Fragmentado](imagenes/fragmentado.JPG)
