@@ -105,3 +105,7 @@ Lo mismo pasa con el resto de modelos 3D, que en este caso son todos de "Minecra
 
 El siguiente shader fragmentado ocupa 407Bytes  
 ![Imagen de shader Fragmentado](imagenes/fragmentado.JPG)
+
+## Video  
+
+https://drive.google.com/file/d/1-7327ooDSzVThyOMIuQTWnZXQ13uxYp5/view?usp=sharing
